@@ -1,0 +1,5 @@
+:root {
+    --background-main: linear-gradient(170deg, #fd1919, #27a0ef);
+    --font-main: 18px;
+    --background-btn: linear-gradient(10deg, #000000, #ffddff);
+}
